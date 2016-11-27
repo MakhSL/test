@@ -1,5 +1,5 @@
 <?
 
-echo 'Hea!';
+echo 'Ha!';
 
 ?>
